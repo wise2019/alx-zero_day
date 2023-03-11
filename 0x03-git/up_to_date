@@ -1,3 +1,1 @@
-git add .
-git commit -m 'hot fix'
-git push
+git pull
